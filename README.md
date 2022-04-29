@@ -1,6 +1,6 @@
 # Programmieraufgabe Textbrowser
 
-Basierend auf dem vorliegenden Qt-Programmgerüst soll ein einfacher Webclient programmiert werden. 
+Basierend auf dem vorliegenden Qt-Programmgerüst soll ein grafischer Webclient mit Ausgabe des Quelltextes programmiert werden. 
 (lauffähiges Beispielprogramm im Unterverzeichnis `bin`)
 
 ## Lösungsschritte
