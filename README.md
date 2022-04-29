@@ -1,4 +1,4 @@
-# Programmieraufgabe Webclient
+# Programmieraufgabe Textbrowser
 
 Basierend auf dem vorliegenden Qt-Programmgerüst soll ein einfacher Webclient programmiert werden. 
 (lauffähiges Beispielprogramm im Unterverzeichnis `bin`)
