@@ -27,11 +27,11 @@ CONFIG += c++11
 SOURCES += \
         main.cpp \
         gui.cpp \
-    httpfetcher.cpp
+    httpclient.cpp
 
 HEADERS += \
         gui.h \
-    httpfetcher.h
+    httpclient.h
 
 FORMS += \
         gui.ui

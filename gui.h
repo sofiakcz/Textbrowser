@@ -2,6 +2,7 @@
 #define GUI_H
 
 #include "ui_gui.h"
+#include "httpclient.h"
 
 class Gui : public QWidget, private Ui::Gui
 {
